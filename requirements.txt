@@ -1,0 +1,4 @@
+scrapy
+xlrd
+mysql-connector-python
+python-dotenv
